@@ -181,19 +181,22 @@ def main():
 
 if __name__ == "__main__":
     print("script by MapleCake NJUPT2025管院新生")
-    print("喵~管用贴吧给个好评喵~")
-    print("github给个小星星就最好啦:https://github.com/MapleSugarCake/LabLearningAutoPass")
+    print("    本脚本坚持免费，如若您购买获得运行本脚本，作为一名光荣的南邮学子，请立刻")
+    print("    喵~管用贴吧给个好评喵~")
+    print("    github给个小星星就最好啦:https://github.com/MapleSugarCake/LabLearningAutoPass")
     print("本脚本尚不完善，本脚本只可完成课程学习和课程答题，考试仍需自行手动完成。")
     print("若脚本报错，请再白天换个时间重试，夜晚你邮服务器会宕机")
     print("现在需要您按以下操作帮助登录:")
-    print("1.请校内同学从http://10.22.192.38:9092/登录自己的用户。""\n"
-          "###校外同学无法使用该脚本###")
-    print("2.任意选择一个课程打开")
-    print("3.Chrome/Edge浏览器用户请右键选择检查后，再选择网络")
-    print("4.在页面左上角的过滤栏里输入updatevisits（是左上角，不是下面的过滤框）")
-    print("5.刷新页面，现在你可以看到网页多了两个包")
-    print("6.选择类型为xhr的包，在请求标头里复制x-access-token的数据，并粘贴在本程序中")
+    print("    1.请校内同学从http://10.22.192.38:9092/登录自己的用户。""\n"
+          "      ###校外同学无法使用该脚本###")
+    print("    2.任意选择一个课程打开")
+    print("    3.Chrome/Edge浏览器用户请右键选择检查后，再选择网络")
+    print("    4.在页面左上角的过滤栏里输入updatevisits（是左上角，不是下面的过滤框）")
+    print("    5.刷新页面，现在你可以看到网页多了两个包")
+    print("    6.选择类型为xhr的包，在请求标头里复制x-access-token的数据，并粘贴在本程序中")
     token = input("请输入你的X-Access-Token：")
     main()
 
-    print("执行完毕，请在网页上查看完成情况。")
+    print("程序执行完毕，请在网页上查看完成情况。按回车键退出...")
+
+    input()
