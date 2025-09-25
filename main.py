@@ -175,7 +175,7 @@ def main():
             print("\n")
         else:
             print("\n")
-            print(f"{list_name}存在学习失败的章节")
+            print(f"{list_name}存在 {len(a)-success}个 学习失败的章节")
             print("\n")
 
 
@@ -192,3 +192,5 @@ if __name__ == "__main__":
     print("6.选择类型为xhr的包，在请求标头里复制x-access-token的数据，并粘贴在本程序中")
     token = input("请输入你的X-Access-Token：")
     main()
+
+    print("执行完毕，请在网页上查看完成情况。")
