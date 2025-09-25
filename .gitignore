@@ -9,3 +9,4 @@ wheels/
 # Virtual environments
 .idea
 .venv
+main.spec
