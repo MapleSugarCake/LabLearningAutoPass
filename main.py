@@ -1,5 +1,5 @@
 #script by MapleCake NJUPT2025管院新生
-#版本号v0.41
+#版本号v0.43
 import threading
 import requests
 import json
