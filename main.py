@@ -181,7 +181,7 @@ def main():
 
 if __name__ == "__main__":
     print("script by MapleCake NJUPT2025管院新生")
-    print("    本脚本坚持免费，如若您购买获得运行本脚本，作为一名光荣的南邮学子，请立刻")
+    print("    本脚本坚持免费，如若您购买获得运行本脚本，作为一名光荣的南邮学子，请抵制倒买倒卖行为")
     print("    喵~管用贴吧给个好评喵~")
     print("    github给个小星星就最好啦:https://github.com/MapleSugarCake/LabLearningAutoPass")
     print("本脚本尚不完善，本脚本只可完成课程学习和课程答题，考试仍需自行手动完成。")
